@@ -4,13 +4,14 @@
 
 
 
-#### led_if_network.sh  - 上电连上网后关闭所有灯光
+#### [led_if_network.sh](https://github.com/rskil/OpenStick_led/blob/main/led_if_network.sh)  - 上电连上网后关闭所有灯光
 
-#### led_open.sh   -  打开灯光
+#### [led_open.sh](https://github.com/rskil/OpenStick_led/blob/main/led_open.sh)   -  打开灯光
 
-#### led_stop.sh	-  关闭灯光 
+#### [led_stop.sh](https://github.com/rskil/OpenStick_led/blob/main/led_stop.sh)	-  关闭灯光 
 
 
+<br>
 
 参考：
 
