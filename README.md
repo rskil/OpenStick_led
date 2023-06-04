@@ -1,6 +1,6 @@
 # OpenStick_led
 
-随身 WiFi 棒子 系统 OpenStick led灯光控制脚本 ...
+随身 WiFi 棒子 系统 OpenStick led灯光控制 ...
 
 
 
@@ -15,5 +15,5 @@
 
 参考：
 
-[控制led行为 · OpenStick项目 · 看云](https://www.kancloud.cn/handsomehacker/openstick/2637560)
+$nbsp;$nbsp;$nbsp;[控制led行为 · OpenStick项目 · 看云](https://www.kancloud.cn/handsomehacker/openstick/2637560)
 
